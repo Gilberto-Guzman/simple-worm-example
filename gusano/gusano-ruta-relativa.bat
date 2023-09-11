@@ -39,5 +39,3 @@ for /l %%x in (1, 1, 10) do (
 rem Pausar la ejecución del script para que el usuario pueda ver los resultados
 pause
 
-
-pause
